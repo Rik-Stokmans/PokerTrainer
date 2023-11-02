@@ -1,0 +1,17 @@
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/bin/Debug/net7.0/PokerTrainer
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/bin/Debug/net7.0/PokerTrainer.deps.json
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/bin/Debug/net7.0/PokerTrainer.runtimeconfig.json
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/bin/Debug/net7.0/PokerTrainer.dll
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/bin/Debug/net7.0/PokerTrainer.pdb
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/bin/Debug/net7.0/YamlDotNet.dll
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.csproj.AssemblyReference.cache
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.AssemblyInfoInputs.cache
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.AssemblyInfo.cs
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.csproj.CoreCompileInputs.cache
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.csproj.CopyComplete
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.dll
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/refint/PokerTrainer.dll
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.pdb
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/PokerTrainer.genruntimeconfig.cache
+/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/obj/Debug/net7.0/ref/PokerTrainer.dll

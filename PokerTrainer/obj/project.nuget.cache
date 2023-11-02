@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XX9Danj3IY0DuEeaam2d8YVb5O1wI4hP0j8GGBEDilWvYsu7fOrHDpfdx+zuZM9tviIHNsp7GQaj8w0fwFUTaQ==",
+  "success": true,
+  "projectFilePath": "/Users/rikstokmans/RiderProjects/PokerTrainer/PokerTrainer/PokerTrainer.csproj",
+  "expectedPackageFiles": [
+    "/Users/rikstokmans/.nuget/packages/yamldotnet/13.7.1/yamldotnet.13.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
